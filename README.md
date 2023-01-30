@@ -20,3 +20,11 @@ Chainlink Data Feeds are the quickest way to connect your smart contracts to the
  If you require a denomination other than what is provided, you can use two **data feeds** to derive the pair that you need. For example, if you needed a **BTC/EUR** price, cu ould take the **BTC/USD** feed and the **EUR/USD** feed and derive **BTC/EUR** using division.
  
  (BTC/USD) / (EUR/USD) = BTC/EUR
+ 
+ # Get Test Goerli ETH
+ [alchemy.com](https://dashboard.alchemy.com)
+ 
+ [goerlifaucet](https://goerlifaucet.com)
+ 
+ 
+ 
